@@ -1,0 +1,16 @@
+C:\Users\Ihor\source\repos\PI-219-2-3\DAL\bin\Debug\DAL.dll.config
+C:\Users\Ihor\source\repos\PI-219-2-3\DAL\bin\Debug\DAL.dll
+C:\Users\Ihor\source\repos\PI-219-2-3\DAL\bin\Debug\DAL.pdb
+C:\Users\Ihor\source\repos\PI-219-2-3\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ihor\source\repos\PI-219-2-3\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ihor\source\repos\PI-219-2-3\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ihor\source\repos\PI-219-2-3\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ihor\source\repos\PI-219-2-3\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ihor\source\repos\PI-219-2-3\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ihor\source\repos\PI-219-2-3\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ihor\source\repos\PI-219-2-3\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ihor\source\repos\PI-219-2-3\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Ihor\source\repos\PI-219-2-3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ihor\source\repos\PI-219-2-3\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Ihor\source\repos\PI-219-2-3\DAL\obj\Debug\DAL.dll
+C:\Users\Ihor\source\repos\PI-219-2-3\DAL\obj\Debug\DAL.pdb
